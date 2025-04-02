@@ -1,6 +1,24 @@
 {
   "dependencies": {
-    "@vercel/node": "^5.1.14",
     "express": "^5.1.0"
-  }
+  },
+  "name": "parcial-ii-juanjocamposv",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)\r # Web Development Exam - Backend with Express.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjocamposv/parcial-ii-juanjocamposv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjocamposv/parcial-ii-juanjocamposv/issues"
+  },
+  "homepage": "https://github.com/juanjocamposv/parcial-ii-juanjocamposv#readme"
 }
