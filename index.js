@@ -1,5 +1,4 @@
-const express = require("express");
-const app = express();
+const express = require("express"); // Importar express 
 
 app.use(express.json());
 
@@ -8,7 +7,7 @@ const PORT = 3000;
 // Lista de productos en memoria
 let products = [
   { id: 1, name: "Product 1", price: 1999 },
-  { id: 2, name: "Product 2", price: 2999 },
+  { id: 2, name: "Product 2", price: 2999 }, 
   { id: 3, name: "Product 3", price: 3999 },
 ];
 
@@ -54,5 +53,5 @@ app.get('/', (req, res) => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
   });
 
-// Exportar para Vercel
+// Exportar para Vercel FUNCIONA GVN
 module.exports = app;
