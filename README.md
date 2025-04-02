@@ -2,7 +2,8 @@
 # Web Development Exam - Backend with Express.js
 
 JUAN JOSE CAMPOS VALDERRAMA
-https://parcial-ii-juanjocamposv-ma6jehu5w-juan-joses-projects-9e04b81e.vercel.app/products/1
+https://parcial-ii-juanjocamposv-ma6jehu5w-juan-joses-projects-9e04b81e.vercel.app/products/
+![image](https://github.com/user-attachments/assets/4b607382-f8d9-493b-924b-65d867e72e02)
 
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
